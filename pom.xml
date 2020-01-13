@@ -1,0 +1,9 @@
+<project>
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>jenkins_maven</groupId>
+  <artifactId>maven_jenkins</artifactId>
+  <packaging>war</packaging>
+  <version>1</version>
+
+</project>
